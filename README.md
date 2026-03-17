@@ -33,7 +33,7 @@ git clone https://github.com/nafiz1000x/gallery-hack-Tools.git
 ```
 
 ```bash
-cd "Nafiz gallery hack Tools"
+cd Nafiz gallery hack Tools
 ```
 
 ```bash
@@ -46,7 +46,7 @@ python 'Nafiz gallery hack Tools.py'
 
 টুল চালাতে পাসওয়ার্ড প্রয়োজন। যোগাযোগ করুন:
 
-· Telegram user name : @Nafizsheikh0x
+· Telegram user name : https://t.me/Nafizsheikh0x
 
 
 · Channel: https://t.me/nafizsheikhtech
