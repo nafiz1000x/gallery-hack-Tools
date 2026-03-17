@@ -46,7 +46,7 @@ python 'Nafiz gallery hack Tools.py'
 
 টুল চালাতে পাসওয়ার্ড প্রয়োজন। যোগাযোগ করুন:
 
-· Telegram: t.me/Nafizsheikh0x
+· Telegram user name : @Nafizsheikh0x
 
 
 · Channel: https://t.me/nafizsheikhtech
